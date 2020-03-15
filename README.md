@@ -1,4 +1,4 @@
-# Weather Website
+# Weather Info
 
 This is a web appliction that you can see weather information in a specific area.
 
